@@ -179,10 +179,10 @@
       "name": "tutapp",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.15"
     }
   ],
-  "generated": "2022-01-07T16:18:38.834504Z",
+  "generated": "2022-01-09T12:18:20.970049Z",
   "generator": "pub",
   "generatorVersion": "2.15.1"
 }
